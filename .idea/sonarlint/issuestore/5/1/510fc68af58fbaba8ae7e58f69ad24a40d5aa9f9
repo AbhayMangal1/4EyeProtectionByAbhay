@@ -1,0 +1,9 @@
+
+‹
+java:S1130"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(¾¦ÉÛ8ºô†õ1
+O
+java:S1905)"-Remove this unnecessary cast to "DataSource".(¾§Ïåøÿÿÿÿ8½ô†õ1
+X
+java:S1874+";Remove this use of "NoOpPasswordEncoder"; it is deprecated.(”½Àé8¿ô†õ1
+
+java:S1128"dRemove this unused import 'org.springframework.security.config.annotation.web.builders.WebSecurity'.(–ëğ8İ• õ1
